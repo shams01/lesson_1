@@ -1,9 +1,9 @@
-package ru.kfc.autotests;
+package ru.kfc.autotests.lesson_1;
 
 import java.util.Arrays;
 import java.util.Random;
 
-public class Task_1 {
+public class Lesson_main {
     public static void main(String[] args) {
         int[] mass = new int[20];
         for (int i=0; i<mass.length; i++){
